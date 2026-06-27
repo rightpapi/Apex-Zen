@@ -22,6 +22,8 @@ Because recoil compensation is influenced by sensitivity, controller settings, d
 
 **Response Curve:** *30*
 
+**Advanced Look Controls:** *Disabled*
+
 **Look Deadzone:** *Small*
 
 **Movement Deadzone:** *Small*
