@@ -28,7 +28,7 @@ Because recoil compensation is influenced by sensitivity, controller settings, d
 
 **Per Optic Settings:** *1.0/Disabled*
 
-**Aim Assist:** *Yes, Xbox*
+**Aim Assist:** *Enabled (Xbox)*
 
 ---
 
