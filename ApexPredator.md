@@ -15,25 +15,6 @@ Your sensitivity, controller settings, deadzones, hardware, and playstyle can al
 
 ---
 
-## Configuration
-
-Testing Configuration:
-
-```text
-Sensitivity: 4-3
-Platform: Xbox
-Aim Assist: Enabled
-
-These values have been carefully tested and are the recommended settings for the ApexPredator script. They are intended to provide a reliable starting point for recoil compensation across a variety of weapons and optics.
-
-Keep in mind that every player's setup is different. Your controller, sensitivity, deadzone, playstyle, and personal preference may all affect how these values perform. Feel free to make small adjustments until they match your preferences.
-
-Please note that these values are **not guaranteed to make your aim perfect** or completely eliminate recoil. They are designed to provide the closest possible recoil compensation while still requiring proper tracking, recoil control, and mechanical skill. Individual results will vary.
-
-These values are subject to change as the script and game continue to evolve. Be sure to check back regularly for updates, improvements, and newly optimized values.
-
-This page will continue to expand over time with additional weapons, features, and other useful resources, so stay tuned for future updates.
-
 ## Mods
 ```text
 Bunny-Hop | Toggle
