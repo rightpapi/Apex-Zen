@@ -60,8 +60,6 @@ Please keep all contributions accurate, relevant, and easy to understand. Conten
 
 ---
 
----
-
 ## Contributing
 
 Contributions are welcome, but please make sure all submissions follow the repository format.
