@@ -104,7 +104,7 @@ Prowler Auto: V -9, H 20 | Hipfire 4
 #### Devotion
 
 ```text
-1x / No Optic: V -48, H 18 | Hipfire 6
+1x: V -48, H 18 | Hipfire 6
 2x: V -28, H 8
 3x: V -18, H -12
 4x: V -12, H -22
