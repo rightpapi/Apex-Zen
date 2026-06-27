@@ -20,9 +20,9 @@ Your sensitivity, controller settings, deadzones, hardware, and playstyle can al
 Bunny-Hop | Toggle
 Wall Jump
 Fast Reload
-Press Down; Armour Swap (Time 80) (Mod Normal)
-Press L3; Zip Jump
-Press Left; None
+Press Down: Armour Swap (Time 80) (Mod Normal)
+Press L3: Zip Jump
+Press Left: None
 ```
 
 ## Values
