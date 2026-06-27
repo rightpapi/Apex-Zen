@@ -6,6 +6,10 @@ Keep in mind that every player's setup is different. Your controller, sensitivit
 
 Please note that these values are **not guaranteed to make your aim perfect** or completely eliminate recoil. They are designed to provide the closest possible recoil compensation while still requiring proper tracking, recoil control, and mechanical skill. Individual results will vary.
 
+These values are subject to change as the script and game continue to evolve. Be sure to check back regularly for updates, improvements, and newly optimized values.
+
+This page will continue to expand over time with additional weapons, features, and other useful resources, so stay tuned for future updates.
+
 ## Values
 
 ### SMGs
