@@ -1,8 +1,22 @@
 # ApexZenUtilities
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Game](https://img.shields.io/badge/Game-Apex%20Legends-orange)
-![Platform](https://img.shields.io/badge/Platform-Cronus%20Zen-blue)
-![License](https://img.shields.io/badge/License-Credit%20Required-red)
+<p align="center">
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
+![Game](https://img.shields.io/badge/Game-Apex%20Legends-orange?style=for-the-badge)
+![Credit](https://img.shields.io/badge/Credit-Required-red?style=for-the-badge)
+
+</p>
+
+<p align="center">
+
+[![ApexPredator](https://img.shields.io/badge/ApexPredator-Values-purple?style=for-the-badge)](ApexPredator%20Script.md)
+[![User Info](https://img.shields.io/badge/User%20Info-View-blue?style=for-the-badge)](UserInfo.md)
+[![Tutorials](https://img.shields.io/badge/Tutorials-View-green?style=for-the-badge)](Tutorials.md)
+[![Changelog](https://img.shields.io/badge/Changelog-View-orange?style=for-the-badge)](CHANGELOG.md)
+[![Rules](https://img.shields.io/badge/Rules-Read-red?style=for-the-badge)](RULES.md)
+
+</p>
 
 ## Credit
 
