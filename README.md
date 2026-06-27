@@ -10,10 +10,10 @@
 
 <p align="center">
 
-[![ApexPredator](https://img.shields.io/badge/ApexPredator-Values-purple)](ApexPredator.md)
+[![ApexPredator](https://img.shields.io/badge/ApexPredator-Values-brightgreen)](ApexPredator.md)
 [![User Info](https://img.shields.io/badge/User%20Info-View-blue)](UserInfo.md)
-[![Tutorials](https://img.shields.io/badge/Tutorials-View-yellowgreen)](Tutorials.md)
-[![Changelog](https://img.shields.io/badge/Changelog-View-green)](CHANGELOG.md)
+[![Tutorials](https://img.shields.io/badge/Tutorials-View-orange)](Tutorials.md)
+[![Changelog](https://img.shields.io/badge/Changelog-View-red)](CHANGELOG.md)
 
 </p>
 
