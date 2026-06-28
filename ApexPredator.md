@@ -6,20 +6,13 @@
 [![User Info](https://img.shields.io/badge/User%20Info-View-purple)](UserInfo.md)
 [![Tutorials](https://img.shields.io/badge/Tutorials-View-green)](Tutorials.md)
 [![Changelog](https://img.shields.io/badge/Changelog-View-orange)](CHANGELOG.md)
+[![Download](https://img.shields.io/badge/Download-Predator%20Script-DC143C )](https://drive.google.com/file/d/1WYrTy2HglGQT1IEJP2iAPcUOKXla2VX5/view?usp=drive_link)
 
 </p>
 
 These values are the recommended configurations for the ApexPredator script. They have been tested to provide a reliable baseline, but they may not match every user's setup.
 
 Your sensitivity, controller settings, deadzones, hardware, and playstyle can all affect how these values perform. Adjustments may be required to achieve your preferred results.
-
----
-
-<div align="center">
-
-[![Download](https://img.shields.io/badge/Download-GPC%20File-8D3F3F)](https://drive.google.com/file/d/1WYrTy2HglGQT1IEJP2iAPcUOKXla2VX5/view?usp=drive_link)
-
-</div>
 
 ---
 
