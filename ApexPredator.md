@@ -15,6 +15,14 @@ Your sensitivity, controller settings, deadzones, hardware, and playstyle can al
 
 ---
 
+<div align="center">
+
+[![Download](https://img.shields.io/badge/Download-GPC%20File-8D3F3F)](https://drive.google.com/file/d/1WYrTy2HglGQT1IEJP2iAPcUOKXla2VX5/view?usp=drive_link)
+
+</div>
+
+---
+
 ## Mods
 ```text
 Bunny-Hop | Toggle
