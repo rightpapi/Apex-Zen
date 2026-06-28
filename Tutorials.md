@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/4c2cd75c-0db1-48d8-ac37-c1a57357a90c
 - To select an AR, hold X on Xbox or Square on PlayStation and press Up on the D-pad
 - To select an SMG, hold X on Xbox or Square on PlayStation and press Down on the D-pad
 - You can edit the values of the selected gun and magnification by pressing LT + Xbox or LT + PlayStation then going into settings and changing the values, take note hipfire (hyp) applys for every magnification of that gun and cannot be changed per magnification.
-- Go back and hold X and press right on D-Pad to select magnification or left to change the barrel rarity (N = None, W = Common/White, B = Rare/Blue, P = Epic/Purple)
+- Go back and hold X and press right on D-Pad to select magnification or left to change the barrel rarity (N = None, W = Common/White, B = Rare/Blue, P = Epic/Purple), the values will change on magnification change but not barrel change.
 
 Recommended to check:
 
