@@ -1,13 +1,15 @@
 # Changelog
 
 <p align="center">
+
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](https://discord.gg/VtBeKY5jU9)
 [![README](https://img.shields.io/badge/README-Back-blue)](README.md)
+[![ApexPredator](https://img.shields.io/badge/ApexPredator-Values-red)](ApexPredator.md)
 [![User Info](https://img.shields.io/badge/User%20Info-View-purple)](UserInfo.md)
 [![Tutorials](https://img.shields.io/badge/Tutorials-View-green)](Tutorials.md)
-  
-</p>
+[![Changelog](https://img.shields.io/badge/Changelog-View-orange)](CHANGELOG.md)
 
+</p>
 All notable changes to the ApexZen repository are documented here.
 This page is updated whenever values, scripts, documentation, or repository features are added, changed, or removed.
 
